@@ -6,7 +6,7 @@ This repository provides a structured approach to LLMOps, covering various aspec
 
 ## Repository Structure
 
-### 1. [Prompt Engineering Basics] (https://github.com/michaWorku/LLMOps/blob/main/1_prompt_engineering_basics.ipynb)
+### 1. [Prompt Engineering Basics](https://github.com/michaWorku/LLMOps/blob/main/1_prompt_engineering_basics.ipynb)
 - Introduces fundamental prompt engineering techniques.
 - Covers best practices such as specificity, clarity, prompt chaining, and role-playing.
 
